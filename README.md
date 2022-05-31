@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @LiamGunton
+- Most of the projects I have worked on are private because of school
 - 👀 I’m interested in softwear development
 - 🌱 I’m currently learning Game experiance development @NBCC
 - 💞️ I’m looking to collaborate on c++ or C# projects
